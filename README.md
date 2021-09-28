@@ -95,14 +95,14 @@ _________________
 #### Step 5: Complete Project Write Up
 #### choice of tools and technologies for the project
 
-        In this project I used Spark to visualize data because it's easier to do schema on read and I also use Spark to clean the data as well, At a later stage, I recommend using Spark to process the data with the better environment and support larger dataset such as Amazon Elastic Map Reduce (EMR). Also, to perform automated updates, I recommend integrating the ETL pipeline into an Airflow DAG.
+   In this project I used Spark to visualize data because it's easier to do schema on read and I also use Spark to clean the data as well, At a later stage, I recommend using Spark to process the data with the better environment and support larger dataset such as Amazon Elastic Map Reduce (EMR). Also, to perform automated updates, I recommend integrating the ETL pipeline into an Airflow DAG.
     
-        The Jupyter Notebook is used to show the steps how I structured the project and easier to markdown and explain in each step about what I did. Apart from this, Python is an often used programming language and was used because it is the language I am the most comfortable with.
+   The Jupyter Notebook is used to show the steps how I structured the project and easier to markdown and explain in each step about what I did. Apart from this, Python is an often used programming language and was used because it is the language I am the most comfortable with.
     
     
 #### how often the data should be updated and why
 
-        The COVID-19 situation still continues to occur, and the vaccination and other informations are also necessary to assess and deal with such situations. thus, In my opinion. monthly update is what I recommended the most.
+   The COVID-19 situation still continues to occur, and the vaccination and other informations are also necessary to assess and deal with such situations. thus, In my opinion. monthly update is what I recommended the most.
         
         
 #### How I would handle the following sceanarios :
